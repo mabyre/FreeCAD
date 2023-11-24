@@ -4,6 +4,11 @@ https://www.youtube.com/watch?v=NzxwSX3DTRU&t=24s
 enregistrement d'une vidéo
 Rotation-000.FCStd une rotation qui fonctionne
 
+<video style="margin: 10px;" width="640" height="360" controls>
+  <source src="Tuto1/tuto1-000.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Tuto0.1
 J'essaye de créer la pièce avec Assembly 4 pour l'animer avec une variable d'angle.
 comme dans Tuto0
