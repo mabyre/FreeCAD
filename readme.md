@@ -1,5 +1,5 @@
 ### FEM-Ressort
-Quelques essai de calculs aux éléments finis FEM (Finite Element Methode)
+Quelques essais de calculs aux éléments finis FEM (Finite Element Methode)
 la résolution d'équation différentielles par le calcul aux éléments finis
 
 ### Tuto1
