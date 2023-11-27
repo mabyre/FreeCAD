@@ -1,3 +1,6 @@
+### Perçcage cylindre
+la difficulté de placer une esquisse sur un cylindre
+
 ### FEM-Ressort
 Quelques essais de calculs aux éléments finis FEM (Finite Element Methode)
 la résolution d'équation différentielles par le calcul aux éléments finis
