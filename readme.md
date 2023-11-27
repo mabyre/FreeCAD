@@ -1,3 +1,7 @@
+### FEM-Ressort
+Quelques essai de calculs aux éléments finis FEM (Finite Element Methode)
+la résolution d'équation différentielles par le calcul aux éléments finis
+
 ### Tuto1
 des animations grâce à l'atelier Assembly 4
 https://www.youtube.com/watch?v=NzxwSX3DTRU&t=24s
