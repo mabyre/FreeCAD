@@ -1,3 +1,13 @@
+### RotateEngine
+Simple Engine in Rotation thanks to Assembly 4
+
+There is not that much tuto on it you must carefully look to this Sample :
+
+[Asm4_Tutorial4](https://github.com/Zolko-123/FreeCAD_Examples/tree/master/Asm4_Tutorial4)
+
+Here is a video done with FreeCAD :
+![](./RotateEngine/RotateEngine-000.mp4)
+
 ### Perçcage cylindre
 La difficulté de placer une esquisse sur un cylindre
 
