@@ -11,6 +11,14 @@ https://youtu.be/fnabEaYKOxI
 
 ![](./RotateEngine/RotateEngine-000.mp4)
 
+### For finger prothesis
+
+Thanks to Theo Jansen and his Walker
+
+![](./RotateEngine/2023-11-30_15h55_03.png)
+
+https://youtu.be/8iSupW6UVbI
+
 ### Perçcage cylindre
 La difficulté de placer une esquisse sur un cylindre
 
