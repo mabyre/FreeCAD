@@ -5,7 +5,7 @@ La difficulté de placer une esquisse sur un cylindre
 Quelques essais de calculs aux éléments finis FEM (Finite Element Methode)
 la résolution d'équation différentielles par le calcul aux éléments finis
 
-![](.\FEM-Ressort2023-11-14_13h24_27.png)
+![](./FEM-Ressort/2023-11-14_13h24_27.png)
 
 ### Tuto1
 Des animations grâce à l'atelier Assembly 4 :
