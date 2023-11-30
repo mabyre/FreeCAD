@@ -6,6 +6,9 @@ There is not that much tuto on it you must carefully look to this Sample :
 [Asm4_Tutorial4](https://github.com/Zolko-123/FreeCAD_Examples/tree/master/Asm4_Tutorial4)
 
 Here is a video done with FreeCAD :
+
+https://youtu.be/fnabEaYKOxI
+
 ![](./RotateEngine/RotateEngine-000.mp4)
 
 ### Perçcage cylindre
