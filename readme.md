@@ -1,7 +1,7 @@
 ### RotateEngine
 Simple Engine in Rotation thanks to Assembly 4
 
-There is not that much tuto on it you must carefully look to this Sample :
+There is not that much tuto on it, you must carefully look to this Sample:
 
 [Asm4_Tutorial4](https://github.com/Zolko-123/FreeCAD_Examples/tree/master/Asm4_Tutorial4)
 
@@ -19,8 +19,8 @@ Thanks to Theo Jansen and his Walker
 
 https://youtu.be/8iSupW6UVbI
 
-### Perçcage cylindre
-La difficulté de placer une esquisse sur un cylindre
+### Perçage cylindre
+Résoudre la difficulté de placer une esquisse sur un cylindre
 
 ### FEM-Ressort
 Quelques essais de calculs aux éléments finis FEM (Finite Element Methode)
