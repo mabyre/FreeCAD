@@ -7,7 +7,7 @@ There is not that much tuto on it, you must carefully look to this Sample:
 
 Here is a video done with FreeCAD :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnabEaYKOxI?si=-MTfdkJyY__3HB5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/8iSupW6UVbI
 
 ### For finger prothesis
 
