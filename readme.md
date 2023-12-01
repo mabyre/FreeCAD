@@ -7,9 +7,7 @@ There is not that much tuto on it, you must carefully look to this Sample:
 
 Here is a video done with FreeCAD :
 
-https://youtu.be/fnabEaYKOxI
-
-![](./RotateEngine/RotateEngine-000.mp4)
+<iframe width="560" height="315" src="https://youtu.be/fnabEaYKOxI" frameborder="0" allowfullscreen></iframe>
 
 ### For finger prothesis
 
